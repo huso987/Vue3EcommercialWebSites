@@ -84,7 +84,7 @@
        
 </template>
 
-<style scoped>
+<style >
 #offcanvasRightLabel {
   position: relative;
   left: 17px;

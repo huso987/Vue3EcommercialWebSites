@@ -38,7 +38,7 @@
 
 </script>
 
-<style scoped>
+<style >
 .carousel-indicators button {
     width: 10px;
     height: 10px;

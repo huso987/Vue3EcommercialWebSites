@@ -62,7 +62,7 @@
   </div>
   </template>
   
-  <style scoped>
+  <style >
   #cd {
       border-bottom: 1px  solid lightgray;
   }
