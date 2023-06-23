@@ -144,7 +144,7 @@
  
 </template>
 
-<style lang="css" >
+<style lang="css"  >
 .container {
     width: 50%;
     position: relative;
@@ -227,9 +227,13 @@
 }
 .card-textps {
     text-decoration: none;
+    color: black;
 }
 .card-textps:hover {
    text-decoration: underline solid;
+}
+card-bodyps {
+    text-decoration: none;
 }
 </style>
 

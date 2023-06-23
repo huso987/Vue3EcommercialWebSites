@@ -5,14 +5,17 @@ import Kateg from './components/Kategoriler.vue'
 import slide from './components/Slider.vue' 
 import card from './components/Kcard.vue'
 import pslider from './components/Pslider.vue'
+import yanrek from './components/YanReklam.vue'
 </script>
 
 <template>
+
 <navbarvuea></navbarvuea>
 <Kateg></Kateg>
 <slide></slide>
 <card></card>
 <pslider></pslider>
+<yanrek></yanrek>
 </template>
 
 <style scoped>
