@@ -8,6 +8,8 @@ import pslider from './components/Pslider.vue'
 import yanrek from './components/YanReklam.vue'
 import pslider2 from './components/Pslider2.vue'
 import simge from './components/Simge.vue'
+import ykolek from './components/YeniKoleksiyon.vue'
+import bilgi1 from './components/Bilgiaqua.vue'
 </script>
 
 <template>
@@ -20,6 +22,8 @@ import simge from './components/Simge.vue'
 <simge></simge>
 <yanrek></yanrek>
 <pslider2></pslider2>
+<ykolek></ykolek>
+<bilgi1></bilgi1>
 </template>
 
 <style scoped>
