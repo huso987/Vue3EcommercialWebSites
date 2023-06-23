@@ -10,6 +10,7 @@ import pslider2 from './components/Pslider2.vue'
 import simge from './components/Simge.vue'
 import ykolek from './components/YeniKoleksiyon.vue'
 import bilgi1 from './components/Bilgiaqua.vue'
+import bilgi2 from './components/Bilgi2.vue'
 </script>
 
 <template>
@@ -24,6 +25,7 @@ import bilgi1 from './components/Bilgiaqua.vue'
 <pslider2></pslider2>
 <ykolek></ykolek>
 <bilgi1></bilgi1>
+<bilgi2></bilgi2>
 </template>
 
 <style scoped>
