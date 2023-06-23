@@ -6,6 +6,8 @@ import slide from './components/Slider.vue'
 import card from './components/Kcard.vue'
 import pslider from './components/Pslider.vue'
 import yanrek from './components/YanReklam.vue'
+import pslider2 from './components/Pslider2.vue'
+import simge from './components/Simge.vue'
 </script>
 
 <template>
@@ -15,7 +17,9 @@ import yanrek from './components/YanReklam.vue'
 <slide></slide>
 <card></card>
 <pslider></pslider>
+<simge></simge>
 <yanrek></yanrek>
+<pslider2></pslider2>
 </template>
 
 <style scoped>
