@@ -11,6 +11,7 @@ import simge from './components/Simge.vue'
 import ykolek from './components/YeniKoleksiyon.vue'
 import bilgi1 from './components/Bilgiaqua.vue'
 import bilgi2 from './components/Bilgi2.vue'
+import footer2 from  './components/Footer.vue'
 </script>
 
 <template>
@@ -26,6 +27,7 @@ import bilgi2 from './components/Bilgi2.vue'
 <ykolek></ykolek>
 <bilgi1></bilgi1>
 <bilgi2></bilgi2>
+<footer2></footer2>
 </template>
 
 <style scoped>
